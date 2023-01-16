@@ -1,2 +1,2 @@
 # rename-files
-Simple rename files Bash script
+Use command `./rename_files.sh`.
